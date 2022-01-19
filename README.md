@@ -1,5 +1,5 @@
 - 👋 Hi,Nazia here!!
-- 👀 She is a Master's degree Student in HBTU.
+- 👀 She is a Master's degree Student at HBTU.
 - 🌱 She loves to learn latest technologies.
 
 <!---
