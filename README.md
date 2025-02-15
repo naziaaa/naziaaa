@@ -1,41 +1,75 @@
-# 👨‍💻 AI Research Engineer
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=AI+Research+Engineer;Neural+Architect;Tech+Innovator" alt="Typing SVG" />
+</h1>
 
-## Professional Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/AGI-Research-58A6FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine-Learning-00B4AB?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural-Networks-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-### AGI Research Engineer | Stealth AI Startup, San Francisco, US
-*Oct 2024 - Present*
-- Pioneering research in Artificial General Intelligence (AGI)
-- Developing innovative neural network architectures that emulate human-like cognitive processes
-- Advancing machine learning techniques for self-improving AI systems
-- Exploring computational models bridging symbolic and connectionist AI approaches
+> *Architecting the future of intelligence, one neural network at a time* 🧠✨
 
-### AI & ML Engineer | AiVerbalyze Technologies Pvt Ltd
-- Led cutting-edge AI projects focusing on generative AI solutions
-- Developed advanced AI technologies including:
-  - Audiobots
-  - Neural Machine Translation (NMT) models
-  - Text-to-Speech (TTS) systems
-  - Optical Character Recognition (OCR) models
-  - Large Language Models (LLM) for text generation
+## ⚡ Current Mission
 
-### Intern | Hindustan Aeronautics Limited (HAL)
-- Worked on "Embedded Application Software Model of High-Capacity Protected Memory Module (HCPMM)"
-- Gained deep insights into embedded systems and software development in aerospace
-- Explored intricate processes of aircraft technology and software engineering
+**🔮 AGI Research Engineer | Stealth AI Startup, SF**  
+`Oct 2024 - Present`
+- 🚀 Pioneering breakthroughs in Artificial General Intelligence
+- 🧪 Developing next-gen neural architectures
+- 🔧 Building self-evolving AI systems
+- 🌐 Bridging symbolic and connectionist AI approaches
 
-## 🚀 Technical Expertise
-- Artificial General Intelligence (AGI)
-- Machine Learning
-- Embedded Systems
-- Generative AI
-- Neural Network Architecture
-- Computational Modeling
+## 💫 Previous Ventures
 
-## 🌟 Key Interests
-- Neuromorphic Computing
-- Adaptive Learning Systems
-- Cognitive AI
-- Cross-Domain Generalization
-- Interpretable AI Technologies
+### 🌟 AI & ML Engineer | AiVerbalyze Technologies
+```yaml
+Role: Lead AI Developer
+Projects:
+  - 🎧 Advanced Audiobot Systems
+  - 🔄 Neural Machine Translation
+  - 🗣️ Text-to-Speech Innovation
+  - 📝 OCR Technology
+  - 🤖 LLM Architecture
+```
 
-💡 Passionate about pushing the boundaries of artificial intelligence and creating technologies that bridge human-like cognitive capabilities with computational systems.
+### 🛠️ Systems Engineer | HAL
+```yaml
+Focus: Embedded Systems
+Project: HCPMM Development
+Impact: Critical aerospace systems
+```
+
+## 🎯 Tech Arsenal
+
+```javascript
+const skills = {
+  core: ['AGI', 'Machine Learning', 'Neural Networks'],
+  specialties: ['Embedded Systems', 'Generative AI'],
+  emerging: ['Neuromorphic Computing', 'Cognitive AI']
+}
+```
+
+## 🌌 Research Interests
+
+<p align="center">
+
+| Area | Focus |
+|------|-------|
+| 🧬 Neuromorphic Computing | Breaking biological barriers |
+| 🔄 Adaptive Systems | Self-evolving architectures |
+| 🧠 Cognitive AI | Human-machine synthesis |
+| 🌐 Cross-Domain Intelligence | Universal AI systems |
+| 🔍 Interpretable AI | Transparent neural networks |
+
+</p>
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Innovating-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-Online-blue?style=flat-square" />
+</p>
